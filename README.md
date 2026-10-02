@@ -6,32 +6,32 @@ Monthly desktop and mobile platform usage based on [DAP (Digital Analytics Progr
 
 See [`analysis/os_filter.json`](analysis/os_filter.json) for which desktop platforms are included and excluded.
 
-**Data range:** 2018-01 to 2026-08
+**Data range:** 2018-01 to 2026-09
 
 ## Desktop platforms
 
 ![Desktop platform share over time](assets/desktop-platforms.png)
 
-### Latest month (2026-08)
+### Latest month (2026-09)
 
 | Platform | Share |
 | --- | ---: |
-| WINDOWS | 71.3% |
-| MAC | 21.1% |
-| LINUX | 6.3% |
-| CHROME OS | 1.3% |
+| WINDOWS | 72.7% |
+| MAC | 18.8% |
+| LINUX | 6.4% |
+| CHROME OS | 2.1% |
 | BSD | 0.0% |
 
 ## Mobile platforms
 
 ![Mobile platform share over time](assets/mobile-platforms.png)
 
-### Latest month (2026-08)
+### Latest month (2026-09)
 
 | Platform | Share |
 | --- | ---: |
-| IOS | 67.9% |
-| ANDROID | 32.1% |
+| IOS | 68.3% |
+| ANDROID | 31.7% |
 
 ## Regenerate locally
 
